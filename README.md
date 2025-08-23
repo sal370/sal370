@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 <h2>Hello, I'm Faisal Amin!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>I'm a beginner, but I have a mentor friend at <a href="https://www.instagram.com/arii___y">Computer Education</a>
-</em> and me Geografi 2021 in university of Lambung Mangkurat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+</em> and me earthgrpah <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
