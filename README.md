@@ -1,5 +1,4 @@
 
-![GitHub followers](https://img.shields.io/github/followers/secondl1f3?label=Follow&style=social)
 - 👋 Hi, I’m @callem01
 - 👀 I’m interested in Program Working
 - 🌱 I’m currently learning Language Program
